@@ -1,4 +1,4 @@
-# -Windows-Filtering-Platform-example
+# Windows-Filtering-Platform-example
 
 Example of use of the windows API of Windows Filtering Platform to block outbound network communication of a given process.
 
